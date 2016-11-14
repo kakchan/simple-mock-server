@@ -10,7 +10,7 @@
     "express",
     "mock"
   ],
-  "author": "Eric Chan",
+  "author": "Eric Chan (http://laputan.com.au)",
   "license": "ISC",
   "dependencies": {
     "body-parser": "1.15.2",
