@@ -1,0 +1,15 @@
+{
+  "name": "simple-mock-server",
+  "version": "0.0.1",
+  "description": "Simple Express.js Mock Server",
+  "main": "mockServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "mock"
+  ],
+  "author": "Eric Chan",
+  "license": "ISC"
+}
