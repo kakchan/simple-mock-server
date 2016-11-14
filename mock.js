@@ -1,3 +1,5 @@
+var fetch = require('node-fetch');
+
 var addMockRequests = function(requests) {
   return fetch(`http://localhost:8099/_create`, {
     method: 'post',
